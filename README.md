@@ -2,21 +2,21 @@
 <h3 align="center">Software Engineer • Fundador de Watones Network & Teramont Host</h3>
 
 <p align="center">
-  Me apasiona construir cosas que funcionan y escalan. Desde sistemas backend bien estructurados hasta servidores de alto rendimiento para comunidades activas.  
-  Lidero <strong>Watones Network</strong>, una red de servidores Minecraft reconocida por su experiencia survival personalizada, y <strong>Teramont Host</strong>, una plataforma de hosting que ayuda a creadores, empresas y desarrolladores a llevar sus ideas a la web o al juego.
+  Me encanta construir cosas que realmente funcionan. Desde sistemas robustos en backend hasta servidores de alto rendimiento, siempre estoy metido en algo nuevo.  
+  Actualmente lidero <strong>Watones Network</strong>, una comunidad de Minecraft con servidores personalizados, y <strong>Teramont Host</strong>, donde ayudamos a otros a tener su espacio en la web o en el juego.
 </p>
 
 ---
 
 <!-- GitHub Stats y Lenguajes más usados -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osccarJR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osccarJR&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccarJR&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 🛠️ Tecnologías y herramientas favoritas
+### 🧰 Tecnologías y herramientas favoritas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -32,15 +32,15 @@
 
 ---
 
-### 🚀 En qué estoy trabajando ahora
+### 🚀 Lo que estoy haciendo ahora mismo
 
-- 🔧 Mejorando el rendimiento y escalabilidad de **Watones Network** con sistemas internos y plugins hechos a medida.
-- 🌐 Desarrollando nuevas funciones en **Teramont Host** para ofrecer soluciones más flexibles y modernas a nuestros clientes.
-- 👨‍💻 Escribiendo código todos los días, enfocándome en automatización, backend limpio y proyectos que dejan huella.
+- ✨ Manejando **Watones Network**, una comunidad de Minecraft con modalidad survival semi-vanilla, plugins personalizados y eventos.
+- ☁️ Trabajando en **Teramont Host**, un proyecto de hosting pensado para desarrolladores, creadores de contenido y servidores de juegos.
+- 💻 Escribiendo código todos los días, especialmente backend y automatizaciones.
 
 ---
 
-### 🌍 Conecta conmigo
+### 📲 Puedes encontrarme en:
 
 <p align="center">
   <a href="https://www.instagram.com/emilioo.albornozz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
