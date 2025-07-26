@@ -1,47 +1,41 @@
 <h1 align="center">Oscar Emilio Albornoz</h1>
-<h3 align="center">Software Engineer | Fundador de Watones Network & Teramont Host</h3>
+<h3 align="center">Software Engineer • Fundador de Watones Network & Teramont Host</h3>
 
 <p align="center">
-  Apasionado por el desarrollo de soluciones escalables, optimización de sistemas y liderazgo técnico.  
-  Me dedico a construir plataformas estables, intuitivas y con enfoque real en el usuario final.
+  Desarrollo sistemas que funcionan, escalan y conectan.  
+  Lidero proyectos con miles de usuarios y alto impacto en la región.
 </p>
 
 ---
 
-### Proyectos destacados
+### Proyectos
 
-#### Watones Network (BOTW)
-Comunidad de Minecraft con más de 10,000 jugadores.  
-Uno de los servidores más reconocidos en Latinoamérica, con modalidad survival semi-vanilla, sistemas personalizados, economía estable, PvP competitivo y eventos únicos.  
-Desarrollado bajo infraestructura propia y plugins personalizados, manteniendo un rendimiento constante incluso con alta concurrencia.
+- **Watones Network**  
+  +10,000 jugadores. Uno de los servidores Minecraft más reconocidos en Latinoamérica.
 
-#### Teramont Host
-Plataforma de hosting robusta y flexible enfocada en rendimiento real.  
-Ofrecemos soluciones optimizadas para servidores de juegos, páginas web, bots personalizados y automatizaciones.  
-Teramont se ha posicionado como una alternativa confiable para creadores y desarrolladores que buscan soporte técnico serio, estabilidad y control total sobre sus proyectos.
+- **Teramont Host**  
+  Hosting optimizado para desarrolladores, creadores y empresas.
 
 ---
 
-### Stack y herramientas que uso frecuentemente
+### Stack actual
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
 </p>
 
 ---
 
-### GitHub Stats
+### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osccarJR&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccarJR&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osccarJR&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccarJR&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
@@ -65,8 +59,6 @@ Teramont se ha posicionado como una alternativa confiable para creadores y desar
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osccarJR&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/osccarJR/osccarJR/output/snake.svg" alt="Snake animation" />
