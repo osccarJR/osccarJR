@@ -10,11 +10,13 @@
 
 ### Proyectos
 
-- **Watones Network**  
-  +500,000 personas lo han jugado. Uno de los servidores Minecraft más reconocidos en Latinoamérica.
+- [**Watones Network**](https://watones.net)  
+  +500,000 personas lo han jugado. Uno de los servidores Minecraft más reconocidos en Latinoamérica.  
+  ➤ Visítalo en: [watones.net](https://watones.net)
 
-- **Teramont Host**  
-  Hosting optimizado para desarrolladores, creadores y empresas.
+- [**Teramont Host**](https://teramont.host)  
+  Hosting optimizado para desarrolladores, creadores y empresas.  
+  ➤ Más información en: [teramont.host](https://teramont.host)
 
 ---
 
