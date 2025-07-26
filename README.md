@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Emilio Albornoz</h1>
+<h1 align="center">Soy Oscar Emilio Albornoz</h1>
 <h3 align="center">Software Engineer • Fundador de Watones Network & Teramont Host</h3>
 
 <p align="center">
