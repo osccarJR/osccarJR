@@ -26,7 +26,14 @@
   <a href="https://linkedin.com/in/tu_usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<!-- Actividad en GitHub -->
+<!-- Streak (racha de commits) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osccarJR&theme=dark" alt="Streak Stats" />
 </p>
+
+---
+
+<br clear="both">
+
+<!-- Snake animado -->
+<img src="https://raw.githubusercontent.com/osccarJR/osccarJR/output/snake.svg" alt="Snake animation" />
