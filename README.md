@@ -1,39 +1,63 @@
-## Hi 👋! My name is Emilio and I'm a future Embedded Systems Developer from Ecuador studying at UDLA
+<h1 align="center">Hola 👋, soy Emilio Albornoz</h1>
+<h3 align="center">Software Engineer • Fundador de Watones Network & Teramont Host</h3>
 
-<!-- GitHub Stats y Lenguajes más usados -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osccarJR&show_icons=true&theme=radical" alt="Emilio's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccarJR&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
-<!-- Tecnologías -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-</p>
-
-<!-- Redes sociales y contacto -->
-<p align="center">
-  <a href="https://www.instagram.com/tu_usuario"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/tu_usuario"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:tu_correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tu_usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<!-- Streak (racha de commits) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osccarJR&theme=dark" alt="Streak Stats" />
+  Me encanta construir cosas que realmente funcionan. Desde sistemas robustos en backend hasta servidores de alto rendimiento, siempre estoy metido en algo nuevo.  
+  Actualmente lidero <strong>Watones Network</strong>, una comunidad de Minecraft con servidores personalizados, y <strong>Teramont Host</strong>, donde ayudamos a otros a tener su espacio en la web o en el juego.
 </p>
 
 ---
 
-<br clear="both">
+<!-- GitHub Stats y Lenguajes más usados -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osccarJR&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccarJR&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🧰 Tecnologías y herramientas favoritas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+</p>
+
+---
+
+### 🚀 Lo que estoy haciendo ahora mismo
+
+- ✨ Manejando **Watones Network**, una comunidad de Minecraft con modalidad survival semi-vanilla, plugins personalizados y eventos.
+- ☁️ Trabajando en **Teramont Host**, un proyecto de hosting pensado para desarrolladores, creadores de contenido y servidores de juegos.
+- 💻 Escribiendo código todos los días, especialmente backend y automatizaciones.
+
+---
+
+### 📲 Puedes encontrarme en:
+
+<p align="center">
+  <a href="https://www.instagram.com/emilioo.albornozz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/osccar" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/emilio-albornoz-a38ba0246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Streak (racha de commits) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osccarJR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 <!-- Snake animado -->
-<img src="https://raw.githubusercontent.com/osccarJR/osccarJR/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/osccarJR/osccarJR/output/snake.svg" alt="Snake animation" />
+</p>
