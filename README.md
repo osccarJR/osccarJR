@@ -1,63 +1,86 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
-  <img src="./hero-light.svg" width="100%" alt="Oscar Emilio Albornoz — Software Engineer & Founder. From code to communities.">
+  <img src="./hero-light.svg" width="100%" alt="Oscar Emilio Albornoz — Engineer & Founder. NivuSoftware, Watones Network and Teramont Host. I build what’s next.">
 </picture>
 
 <p align="center">
-  <a href="https://watones.net">Watones Network ↗</a> &nbsp; · &nbsp;
-  <a href="https://teramont.net">Teramont Host ↗</a> &nbsp; · &nbsp;
+  <a href="https://www.nivusoftware.com/">NivuSoftware ↗</a> &nbsp; · &nbsp;
+  <a href="https://watones.net">Watones ↗</a> &nbsp; · &nbsp;
+  <a href="https://teramont.net">Teramont ↗</a> &nbsp; · &nbsp;
   <a href="https://linkedin.com/in/emilio-albornoz-a38ba0246/">LinkedIn ↗</a>
 </p>
 
-## Engineering with an owner's mindset.
+### The engineer. The founder. The person behind the product.
 
-I'm **Emilio**, a software engineer and founder working across web applications, gaming platforms and hosting infrastructure.
+I'm **Emilio**, a software engineer and the owner and founder of **NivuSoftware, Watones Network and Teramont Host**. Based in **Quito, Ecuador**, I work where software development, community building and infrastructure meet.
 
-I build the software, work on the systems behind it, and keep improving the experience people actually use. My focus is on **backend development, performance, automation and product execution**.
+My work goes from **building web applications and backend systems** to **running gaming platforms and hosting services**. I care about the whole journey: the idea, the implementation and how it behaves in production.
 
-## Selected ventures
+## Three ventures. One builder.
+
+<a href="https://www.nivusoftware.com/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./nivu-dark.svg">
+  <img src="./nivu-light.svg" width="100%" alt="NivuSoftware — Owner & Founder. Custom software and digital products.">
+</picture>
+</a>
+
+**Software for real business needs.** Through NivuSoftware, I work on websites, custom applications, business systems and automation — bringing product thinking and technical execution together.
+
+[Website](https://www.nivusoftware.com/) · [GitHub organization](https://github.com/NivuSoftware)
 
 <a href="https://watones.net">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./watones-dark.svg">
-    <img src="./watones-light.svg" width="100%" alt="Watones Network — Founder. Minecraft communities, custom systems and player experience.">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./watones-dark.svg">
+  <img src="./watones-light.svg" width="100%" alt="Watones Network — Owner & Founder. Gaming and community.">
+</picture>
 </a>
 
-A Minecraft network for a Latin American community. My work spans custom development, network infrastructure, performance tuning and the ongoing evolution of the player experience.
+**A community powered by engineering.** A Minecraft network for Latin American players, combining custom systems, Java development, network operations and continuous performance improvements.
 
-**Focus:** Java · Minecraft platforms · Stability · Community growth  
-**Explore:** [Website](https://watones.net) · [Community](https://discord.gg/watones)
+[Website](https://watones.net) · [Community](https://discord.gg/watones) · [GitHub organization](https://github.com/Watones)
 
 <a href="https://teramont.net">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./teramont-dark.svg">
-    <img src="./teramont-light.svg" width="100%" alt="Teramont Host — Founder. Game servers, web hosting, VPS and bare metal.">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./teramont-dark.svg">
+  <img src="./teramont-light.svg" width="100%" alt="Teramont Host — Owner & Founder. Hosting and infrastructure.">
+</picture>
 </a>
 
-Hosting services for developers, creators and businesses. I work on the infrastructure and service architecture that support deploying and running their projects.
+**Infrastructure that supports the product.** Hosting services for developers, creators and businesses, spanning game servers, websites, VPS and bare metal. My focus includes platform development and service architecture.
 
-**Focus:** Hosting platforms · Infrastructure · Service architecture  
-**Explore:** [Website](https://teramont.net)
+[Website](https://teramont.net)
 
-## My toolkit
+## The tools behind the work
 
-| Area | Technologies |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./stack-dark.svg">
+  <img src="./stack-light.svg" width="100%" alt="Backend: C#, .NET, Java. Frontend: React, TypeScript, JavaScript. Data: SQL Server, MySQL, MongoDB. Tools and automation: Node.js, Python, Git, GitHub.">
+</picture>
+
+<details>
+<summary>Explore my stack and focus areas</summary>
+
+| Area | Technologies & focus |
 | :--- | :--- |
-| Backend | C# · .NET · Java · Node.js · Python |
+| Backend | C# · .NET · Java · Node.js · APIs |
 | Frontend | React · TypeScript · JavaScript |
 | Data | SQL Server · MySQL · MongoDB |
-| Workflow | Git · GitHub · VS Code |
+| Operations | Hosting · Minecraft infrastructure · Performance tuning |
+| Automation | Python · Internal tools · Workflow automation |
+| Development | Git · GitHub · VS Code |
 
-## What I'm building toward
+</details>
 
-- **Reliable platforms** — backend systems and web applications that are practical to run and maintain.
-- **Better performance** — finding bottlenecks and improving the systems behind gaming and hosting services.
-- **Less repetitive work** — automation and internal tools that make day-to-day operations easier.
+## From the first idea to production
 
-## Let's connect
+**Build with purpose.** Understand the problem, then create the software that solves it.  
+**Run it well.** Keep performance, stability and maintainability part of the work.  
+**Keep improving.** Use real feedback to shape the next iteration.
 
-[LinkedIn](https://linkedin.com/in/emilio-albornoz-a38ba0246/) · [Instagram](https://www.instagram.com/emilioo.albornozz) · **Discord: `osccar`**
+## Let's build something useful.
 
-<sub>Building the product is the start. Making it useful is the work.</sub>
+[Connect on LinkedIn](https://linkedin.com/in/emilio-albornoz-a38ba0246/) · [Explore NivuSoftware](https://www.nivusoftware.com/) · [Instagram](https://www.instagram.com/emilioo.albornozz)  
+**Discord:** `osccar`
+
+<sub>Software engineer by craft. Founder by mindset.</sub>
